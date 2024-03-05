@@ -5,4 +5,4 @@ author: "Namik "
 authorimage: /img/Avatar1.svg
 disable: false
 ---
-M﻿y 1st blog
+M﻿y 2st blog
